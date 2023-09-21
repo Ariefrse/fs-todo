@@ -1,0 +1,46 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+button {
+  text-align: center;
+  padding: 5px 8px;
+  border-radius: 12px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  margin: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  text-align: left;
+  display: inline-block;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
